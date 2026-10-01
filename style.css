@@ -7,3 +7,12 @@ body {
 h1 {
     text-align: center;
 }
+section {
+    width: 80%;
+    margin: auto;
+    padding: 20px;
+}
+
+p {
+    line-height: 1.6;
+}
