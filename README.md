@@ -1,4 +1,4 @@
-# My Git Assignment
+# My Professional Git Assignment
 
 This is a simple personal portfolio website created for my Git and Version Control practical assignment.
 
